@@ -1,0 +1,6 @@
+//aqui ignoramos las cosas que no usamos
+
+node_modules/  
+
+/salida/*.txt   
+
