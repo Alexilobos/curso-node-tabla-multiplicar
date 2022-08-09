@@ -1,5 +1,6 @@
 # Notas:
 Este es mi primer programa en Node
+ejecutar comando nmp install para que descargue los modulos de node
 ```
 Options:
       --help     Show help                                             [boolean]
